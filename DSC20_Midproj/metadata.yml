@@ -1,0 +1,14 @@
+---
+:id: 57997717
+:submitters:
+- :name: Yu Huang
+  :email: yuh014@ucsd.edu
+- :name: Wenyuan Chen
+  :email: w6chen@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-03 12:59:58.326696000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-03 04:59:58.326696000 Z
+:status: processed
+:score: 91.0
